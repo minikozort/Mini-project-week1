@@ -7,10 +7,10 @@
 /* Element Selectors */
 body {
   position: relative;
-  font-family: "Ariel";
+  font-family: "Times New Roman","Comic Sans MS","Arial Black", "Arial";
   font-size: 20px;
-  background-color: #706c91;
-  color: #501f11;
+  background-color: #59d8f8;
+  color: #022406;
 }
 
 h1,
@@ -38,12 +38,12 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #ce1a56;
+  background-color: #1a79b8;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #8aa81c;
+  border-bottom: 10px solid #020363;
 }
 
 footer {
@@ -75,7 +75,7 @@ form {
   margin: 0 auto;
   width: 500px;
   padding: 10px;
-  border: 5px solid #754244;
+  border: 5px solid #0e8bb1;
   border-radius: 20px;
 }
 
@@ -88,7 +88,7 @@ input,
 textarea {
   box-sizing: border-box;
   width: 300px;
-  border: 1px solid #11165f;
+  border: 1px solid #000000;
 }
 
 textarea {
@@ -99,7 +99,7 @@ textarea {
 button {
   height: 40px;
   width: 120px;
-  background-color: #5c633e;
+  background-color: #05011f;
   color: #FDF8F5;
 }
  
